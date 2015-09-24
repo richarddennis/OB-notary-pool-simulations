@@ -17,7 +17,7 @@ v = []
 
 f = 0
 
-while f < 50:
+while f < 50: #Run simulation 50 times
 	a = [] #Number of times when a malicious pool was selected - 1 gets added to the array each
 
 	b = 0 
